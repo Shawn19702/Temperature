@@ -5,7 +5,7 @@ public class temperature {
         Scanner scan = new Scanner(System.in);
 
 
-        System.out.println("Do think the temperature is high, humid, or low?");
+        System.out.println("Do you think the temperature is high, humid, or low?");
 
 
         String temperature = (scan.nextLine());
