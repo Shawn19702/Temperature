@@ -15,13 +15,13 @@ public class temperature {
 
 
         if (temperature.equalsIgnoreCase("High")) {
-            System.out.println("sunblock may be need");
+            System.out.println("sunblock may be needed");
         }
        else if (temperature.equalsIgnoreCase("Humid")) {
             System.out.println("Its muggy");
 
         } else if (temperature.equalsIgnoreCase("Low")) {
-            System.out.println("A coat may be need");
+            System.out.println("A coat may be needed");
 
         }
     }
